@@ -1,0 +1,29 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "navetacandra",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brainly-scraper-v2": "^2.0.9",
+    "cheerio": "^1.0.0-rc.5",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "dns": "^0.1.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "tinyurl": "^1.1.7",
+    "uuid": "^8.3.2",
+    "webp-converter": "^2.3.3"
+  }
+}
